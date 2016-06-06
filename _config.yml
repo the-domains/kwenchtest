@@ -1,0 +1,28 @@
+name: kwenchtest
+favicon: null
+layout_spectrum: 0.8242549924179912
+typography_spectrum: 0.2552384352311492
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0915390201844275
+  lightness: 0.4909122693352401
+  saturation: 0.056071667931973934
+  rhythmicContrast: 0.9111303356476128
+purpose: []
